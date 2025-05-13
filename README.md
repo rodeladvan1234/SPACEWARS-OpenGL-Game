@@ -22,5 +22,5 @@ Right mouse to shift views
 
 
 # Setting it up
-Download the repository and run the main.py file in the directory where it has been downloaded
+Download the repository and run the main.py file in the directory where it has been downloaded after you install the OpenGL dependencies in the same directory
 
