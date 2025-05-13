@@ -20,3 +20,7 @@ Right mouse to shift views
 
 'R' to reset game
 
+
+# Setting it up
+Download the repository and run the main.py file in the directory where it has been downloaded
+
